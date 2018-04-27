@@ -1,7 +1,7 @@
 # encoding=utf-8
 import pickle
 from os import path
-from viterbis import viterbi_algo
+from viterbi import viterbi_algo
 
 
 class MySolver(object):
