@@ -2,7 +2,7 @@
 简单的基于HMM模型的拼音输入法，利用PyQt5实现GUI界面。
 # 环境要求
 - python 3
-- PyQt5 Qt Design([教程](https://www.jianshu.com/p/094928ac0b73))
+- PyQt5 Qt Designer([教程](https://www.jianshu.com/p/094928ac0b73))
 - pickle
 
 # 使用方法
